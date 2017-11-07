@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "biomesoplenty:blocks/white_sandstone_bottom",
+        "top": "biomesoplenty:blocks/white_sandstone_top3",
+        "side": "biomesoplenty:blocks/white_sandstone_normal3"
+    }
+}

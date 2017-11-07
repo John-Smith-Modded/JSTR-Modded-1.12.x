@@ -1,0 +1,21 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "normal": [
+            { "model": "white_sandstone_normal", "weight": 40 },
+            { "model": "white_sandstone_normal1", "weight": 15 },
+            { "model": "white_sandstone_normal2", "weight": 15 },
+            { "model": "white_sandstone_normal3", "weight": 10 },
+            { "model": "white_sandstone_normal4", "weight": 10 },
+            { "model": "white_sandstone_normal5", "weight": 10 }
+        ],
+        "all": [
+            { "model": "white_sandstone_all", "weight": 40 },
+            { "model": "white_sandstone_all1", "weight": 15 },
+            { "model": "white_sandstone_all2", "weight": 15 },
+            { "model": "white_sandstone_all3", "weight": 10 },
+            { "model": "white_sandstone_all4", "weight": 10 },
+            { "model": "white_sandstone_all5", "weight": 10 }
+        ]
+    }
+}

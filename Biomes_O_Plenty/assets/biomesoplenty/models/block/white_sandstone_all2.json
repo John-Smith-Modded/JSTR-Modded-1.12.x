@@ -1,0 +1,7 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "biomesoplenty:blocks/white_sandstone_top2"
+    }
+}

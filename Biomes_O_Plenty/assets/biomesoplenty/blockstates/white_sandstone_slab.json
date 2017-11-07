@@ -1,0 +1,21 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "half=bottom": [
+            { "model": "biomesoplenty:half_slab_sandstone", "weight": 40 },
+            { "model": "biomesoplenty:half_slab_sandstone1", "weight": 15 },
+            { "model": "biomesoplenty:half_slab_sandstone2", "weight": 15 },
+            { "model": "biomesoplenty:half_slab_sandstone3", "weight": 10 },
+            { "model": "biomesoplenty:half_slab_sandstone4", "weight": 10 },
+            { "model": "biomesoplenty:half_slab_sandstone5", "weight": 10 }
+        ],
+        "half=top": [
+            { "model": "biomesoplenty:upper_slab_sandstone", "weight": 40 },
+            { "model": "biomesoplenty:upper_slab_sandstone1", "weight": 15 },
+            { "model": "biomesoplenty:upper_slab_sandstone2", "weight": 15 },
+            { "model": "biomesoplenty:upper_slab_sandstone3", "weight": 10 },
+            { "model": "biomesoplenty:upper_slab_sandstone4", "weight": 10 },
+            { "model": "biomesoplenty:upper_slab_sandstone5", "weight": 10 }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "normal": [
+            { "model": "white_sandstone_normal", "weight": 30 },
+            { "model": "white_sandstone_normal1", "weight": 15 },
+            { "model": "white_sandstone_normal2", "weight": 15 },
+            { "model": "white_sandstone_normal3", "weight": 15 },
+            { "model": "white_sandstone_normal4", "weight": 15 },
+            { "model": "white_sandstone_normal5", "weight": 10 }
+        ]
+    }
+}

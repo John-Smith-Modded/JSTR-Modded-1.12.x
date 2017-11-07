@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "coarse=false,variant=loamy": [
+			{ "model": "biomesoplenty:loamy_dirt", "weight": 70 },
+			{ "model": "biomesoplenty:loamy_dirt1", "weight": 30 }
+		],
+        "coarse=false,variant=sandy": [
+			{ "model": "biomesoplenty:sandy_dirt", "weight": 70 },
+			{ "model": "biomesoplenty:sandy_dirt1", "weight": 30 }
+		],
+        "coarse=false,variant=silty": [
+			{ "model": "biomesoplenty:silty_dirt", "weight": 70 },
+			{ "model": "biomesoplenty:silty_dirt1", "weight": 30 }
+		],
+        "coarse=true,variant=loamy": [
+			{ "model": "biomesoplenty:coarse_loamy_dirt", "weight": 60 },
+			{ "model": "biomesoplenty:coarse_loamy_dirt1", "weight": 40 }
+		],
+        "coarse=true,variant=sandy": [
+			{ "model": "biomesoplenty:coarse_sandy_dirt", "weight": 60 },
+			{ "model": "biomesoplenty:coarse_sandy_dirt1", "weight": 40 }
+		],
+        "coarse=true,variant=silty": [
+			{ "model": "biomesoplenty:coarse_silty_dirt", "weight": 60 },
+			{ "model": "biomesoplenty:coarse_silty_dirt1", "weight": 40 }
+		]
+    }
+}
