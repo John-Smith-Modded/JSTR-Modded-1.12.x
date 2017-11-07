@@ -1,0 +1,10 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "normal": [
+            { "model": "dirt", "weight": 50 },
+            { "model": "dirt1", "weight": 25 },
+            { "model": "dirt2", "weight": 25 }
+        ]
+    }
+}
