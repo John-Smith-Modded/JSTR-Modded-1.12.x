@@ -1,0 +1,8 @@
+{
+    "parent": "block/door_custom_bottom",
+    "textures": {
+        "bottom": "biomesoplenty:blocks/door_pine_lower",
+        "top": "biomesoplenty:blocks/door_pine_upper",
+		"edge": "biomesoplenty:blocks/door_pine_edge"
+    }
+}
