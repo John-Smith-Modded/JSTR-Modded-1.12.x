@@ -1,0 +1,10 @@
+{
+  "mod_id": "stevescarts",
+  "mod_name": "Steves Carts Reborn",
+  "mod_dir": "/Steves_Carts/",
+  "mod_version": "v2.4.12",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Vswe"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/steves-carts-reborn",
+  "description": "A carttastic mod adding a near infinite number of carts possible to the game, through the creation of  modular carts."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "ChestTransporter",
+  "mod_name": "Chest Transporter",
+  "mod_dir": "/Chest_Transporter/",
+  "mod_version": "2.8.7",
+  "mc_version": "1.12.2",
+  "mod_authors": ["CubeX2"],
+  "url_website": "http://www.minecraftforum.net/topic/506109-",
+  "description": "Adds an item that allows you to transport chests."
+}

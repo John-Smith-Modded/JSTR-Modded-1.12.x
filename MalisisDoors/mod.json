@@ -1,0 +1,10 @@
+{
+  "mod_id": "malisisdoors",
+  "mod_name": "MalisisDoors",
+  "mod_dir": "/MalisisDoors/",
+  "mod_version": "v7.1.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Malisis"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/223891-malisis-doors",
+  "description": "Better Doors!"
+}

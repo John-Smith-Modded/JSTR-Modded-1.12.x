@@ -1,0 +1,10 @@
+{
+  "mod_id": "quark",
+  "mod_name": "Quark",
+  "mod_dir": "/Quark/",
+  "mod_version": "r1.3-115",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Vazkii"],
+  "url_website": "http://minecraft.curseforge.com/projects/quark",
+  "description": "A fully modular mod with the objective of improving the vanilla gameplay experience."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "openblockselevator",
+  "mod_name": "OpenBlocks Elevator",
+  "mod_dir": "/OpenBlocks_Elevator/",
+  "mod_version": "v1.3.5",
+  "mc_version": "1.12.2",
+  "mod_authors": ["VsnGamer"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/250832-openblocks-elevator",
+  "description": "A port of the elevator block from OpenBlocks."
+}

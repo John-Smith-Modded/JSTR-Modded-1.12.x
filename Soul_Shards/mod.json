@@ -1,0 +1,10 @@
+{
+  "mod_id": "soulshardstow",
+  "mod_name": "Soul Shards - The Old Ways",
+  "mod_dir": "/Soul_Shards/",
+  "mod_version": "v2.7.3",
+  "mc_version": "1.12.2",
+  "mod_authors": ["TehNut"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/226958-soul-shards-the-old-ways",
+  "description": "Custom spawners for any mob!"
+}

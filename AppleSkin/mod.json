@@ -1,0 +1,10 @@
+{
+  "mod_id": "appleskin",
+  "mod_name": "AppleSkin",
+  "mod_dir": "/AppleSkin/",
+  "mod_version": "1.0.9",
+  "mc_version": "1.12.2",
+  "mod_authors": ["squeek"],
+  "url_website": "",
+  "description": "Adds various food-related HUD improvements."
+}

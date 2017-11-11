@@ -1,0 +1,10 @@
+{
+  "mod_id": "storagedrawersextra",
+  "mod_name": "Storage Drawers Extras",
+  "mod_dir": "/Storage_Drawers_Extras/",
+  "mod_version": "v3.1.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["jaquadro"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/254879-storage-drawers-extras",
+  "description": "Additional drawers from third party materials."
+}

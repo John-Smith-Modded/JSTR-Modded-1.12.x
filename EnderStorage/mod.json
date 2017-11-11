@@ -1,0 +1,10 @@
+{
+  "mod_id": "EnderStorage",
+  "mod_name": "EnderStorage",
+  "mod_dir": "/EnderStorage/",
+  "mod_version": "v2.4.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["chicken_bones"],
+  "url_website": "https://minecraft.curseforge.com/projects/ender-storage-1-8",
+  "description": "Stores your stuff in the END!"
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "babyanimals",
+  "mod_name": "Baby Animals Model Swapper",
+  "mod_dir": "/Baby_Animals/",
+  "mod_version": "v1.11.2-2",
+  "mc_version": "1.12.2",
+  "mod_authors": ["MrIbby", "cocoavalley"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/227979-baby-animals-model-swapper",
+  "description": "Replaces vanilla baby models with models created for the original Baby Animals Mod."
+}

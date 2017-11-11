@@ -1,0 +1,10 @@
+{
+  "mod_id": "extrautils2",
+  "mod_name": "Extra Utilities 2",
+  "mod_dir": "/Extra_Utilities_2/",
+  "mod_version": "v1.6.5",
+  "mc_version": "1.12.2",
+  "mod_authors": ["RWTema"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/225561-extra-utilities",
+  "description": "A bunch of useful things."
+}

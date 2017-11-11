@@ -1,0 +1,10 @@
+{
+  "mod_id": "RedstoneArsenal",
+  "mod_name": "Redstone Arsenal",
+  "mod_dir": "/Redstone_Arsenal/",
+  "mod_version": "v2.3.6",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Team CoFH"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/redstone-arsenal",
+  "description": "Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!"
+}

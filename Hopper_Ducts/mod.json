@@ -1,0 +1,10 @@
+{
+  "mod_id": "hopperducts",
+  "mod_name": "Hopper Ducts",
+  "mod_dir": "/Hopper_Ducts/",
+  "mod_version": "v1.5",
+  "mc_version": "1.12.2",
+  "mod_authors": ["FyberOptic"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/hopper-ducts",
+  "description": "Adds hopper ducts, which are item transport blocks functionally similar to hoppers, but capable of sending items in any direction."
+}

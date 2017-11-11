@@ -1,0 +1,10 @@
+{
+  "mod_id": "ToughAsNails",
+  "mod_name": "Tough As Nails",
+  "mod_dir": "/Tough_As_Nails/",
+  "mod_version": "v3.0.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Adubbz", "Forstride"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/246391-tough-as-nails",
+  "description": "Adds survival features to increase difficulty and realism, including thirst, body temperature, and more!"
+}

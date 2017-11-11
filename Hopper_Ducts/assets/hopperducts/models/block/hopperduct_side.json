@@ -1,0 +1,32 @@
+{
+    "ambientocclusion": false,
+    "textures": {        
+        "particle": "blocks/hopper_outside",
+        "base": "blocks/hopper_outside",
+        "side": "blocks/iron_block"
+    },
+    "elements": [ 
+        {   "from": [ 4, 4, 4 ],
+            "to": [ 12, 12, 12 ],
+            "faces": {
+                "down":  { "uv": [ 4, 4, 12, 12 ], "texture": "#base" },
+                "up":    { "uv": [ 4, 4, 12, 12 ], "texture": "#base" },
+                "north": { "uv": [ 4, 6, 12, 12 ], "texture": "#base" },
+                "south": { "uv": [ 4, 6, 12, 12 ], "texture": "#base" },
+                "west":  { "uv": [ 4, 6, 12, 12 ], "texture": "#base" },
+                "east":  { "uv": [ 4, 6, 12, 12 ], "texture": "#base" }
+            }
+        },
+        {   "from": [ 6, 6, 0 ],
+            "to": [ 10, 10, 4 ],
+            "faces": {
+                "down":  { "uv": [ 5, 5, 9, 9 ], "texture": "#side" },
+                "up":    { "uv": [ 5, 5, 9, 9 ], "texture": "#side" },
+                "north": { "uv": [ 5, 5, 9, 9 ], "texture": "#side" },
+                "south": { "uv": [ 5, 5, 9, 9 ], "texture": "#side" },
+                "west":  { "uv": [ 5, 5, 9, 9 ], "texture": "#side" },
+                "east":  { "uv": [ 5, 5, 9, 9 ], "texture": "#side" }
+            }
+        }
+    ]
+}

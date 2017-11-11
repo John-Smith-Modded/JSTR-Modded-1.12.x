@@ -1,0 +1,10 @@
+{
+  "mod_id": "dsurround",
+  "mod_name": "Dynamic Surroundings",
+  "mod_dir": "/Dynamic_Surroundings/",
+  "mod_version": "v3.4.7.2",
+  "mc_version": "1.12.2",
+  "mod_authors": ["OreCruncher", "Abastro"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/238891-dynamic-surroundings",
+  "description": "Adds a variety of sound and visual effects to improve your Minecraft experience"
+}

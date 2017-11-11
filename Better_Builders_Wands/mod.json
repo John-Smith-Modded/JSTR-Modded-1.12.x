@@ -1,0 +1,10 @@
+{
+  "mod_id": "betterbuilderswands",
+  "mod_name": "Better Builders Wands",
+  "mod_dir": "/Better_Builders_Wands/",
+  "mod_version": "v0.11.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Portablejim"],
+  "url_website": "https://minecraft.curseforge.com/projects/better-builders-wands",
+  "description": "Wands that allow placing of multiple blocks at a time"
+}

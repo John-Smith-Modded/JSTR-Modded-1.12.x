@@ -1,0 +1,10 @@
+{
+  "mod_id": "harvestcraft",
+  "mod_name": "Pam's HarvestCraft",
+  "mod_dir": "/Pams_Harvestcraft/",
+  "mod_version": "v1.12a",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Pamela Collins"],
+  "url_website": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
+  "description": "Expanding minecraft's food system."
+}
