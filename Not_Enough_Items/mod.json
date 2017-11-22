@@ -1,0 +1,10 @@
+{
+  "mod_id": "NotEnoughItems",
+  "mod_name": "Not Enough Items",
+  "mod_dir": "/Not_Enough_Items/",
+  "mod_version": "v2.4.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["ChickenBones"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8",
+  "description": "Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more."
+}
