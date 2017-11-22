@@ -1,0 +1,10 @@
+{
+  "mod_id": "JEI",
+  "mod_name": "Just Enough Items",
+  "mod_dir": "/Just_Enough_Items/",
+  "mod_version": "v4.8.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["mezz"],
+  "url_website": "http://minecraft.curseforge.com/projects/just-enough-items-jei",
+  "description": "Simple recipe and item helper."
+}
