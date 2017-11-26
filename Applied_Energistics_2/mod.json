@@ -1,0 +1,10 @@
+{
+  "mod_id": "appliedenergistics2",
+  "mod_name": "Applied Energistics 2",
+  "mod_dir": "/Applied_Energistics_2/",
+  "mod_version": "rv5-stable-1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["AlgorithmX2"],
+  "url_website": "http://ae-mod.info/",
+  "description": "A Mod about Matter, Energy and using them to conquer the world.."
+}
