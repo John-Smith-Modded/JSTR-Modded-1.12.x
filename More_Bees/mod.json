@@ -1,0 +1,10 @@
+{
+  "mod_id": "morebees",
+  "mod_name": "More Bees",
+  "mod_dir": "/More_Bees/",
+  "mod_version": "v1.4.3",
+  "mc_version": "1.12.2",
+  "mod_authors": ["lach_01298", "Dannerick"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/250226-more-bees",
+  "description": "Adds more bees to Forestry."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "MultiPageChest",
+  "mod_name": "Multi Page Chest",
+  "mod_dir": "/Multi_Page_Chest/",
+  "mod_version": "v1.9.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["CubeX2"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/multi-page-chest",
+  "description": "New chest with 5 pages."
+}
