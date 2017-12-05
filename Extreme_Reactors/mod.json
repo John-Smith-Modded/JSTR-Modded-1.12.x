@@ -1,10 +1,10 @@
 {
-  "mod_id": "BigReactors",
-  "mod_name": "Big Reactors",
-  "mod_dir": "/Big_Reactors/",
+  "mod_id": "bigreactors",
+  "mod_name": "Extreme Reactors",
+  "mod_dir": "/Extreme_Reactors/",
   "mod_version": "v0.4.5.44",
   "mc_version": "1.12.2",
-  "mod_authors": ["ErogenousBeef"],
-  "url_website": "http://www.big-reactors.com/",
+  "mod_authors": ["ErogenousBeef", "ZeroNoRyouki", "ABookFreak"],
+  "url_website": "https://minecraft.curseforge.com/projects/extreme-reactors",
   "description": "Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power."
 }
