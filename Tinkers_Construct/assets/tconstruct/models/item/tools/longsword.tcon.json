@@ -1,0 +1,8 @@
+{
+    "textures": {
+        "layer0": "tconstruct:items/longsword/handle",
+        "layer1": "tconstruct:items/longsword/blade",
+		"layer2": "tconstruct:items/longsword/guard",
+		"broken1": "tconstruct:items/longsword/broken_blade"
+    }
+}
