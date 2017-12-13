@@ -1,0 +1,10 @@
+{
+  "mod_id": "Mantle",
+  "mod_name": "Mantle",
+  "mod_dir": "/Mantle/",
+  "mod_version": "v1.3.1.21",
+  "mc_version": "1.12",
+  "mod_authors": ["boni", "progWML6", "Alexbegt"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/mantle",
+  "description": "Shared code for Slime Knights mods and others."
+}
