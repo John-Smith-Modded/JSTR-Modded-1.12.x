@@ -1,0 +1,10 @@
+{
+  "mod_id": "Souls",
+  "mod_name": "Souls",
+  "mod_dir": "/Souls/",
+  "mod_version": "v3.0.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["ChaosTheDude"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/246698-souls",
+  "description": "Spawns a angry Soul that steals your inventory when you die. Good luck!"
+}
