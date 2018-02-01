@@ -1,0 +1,10 @@
+{
+  "mod_id": "Binnies_Mods",
+  "mod_name": "Binnies Mods",
+  "mod_dir": "/Binnies_Mods/",
+  "mod_version": "v2.5.0.112",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Binnie"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/binnies-mods",
+  "description": "A suite of mods designed to expand the Forestry mod."
+}
