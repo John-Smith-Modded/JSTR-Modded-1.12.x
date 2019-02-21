@@ -1,0 +1,10 @@
+{
+  "mod_id": "MagicBees",
+  "mod_name": "Magic Bees",
+  "mod_dir": "/Magic_Bees/",
+  "mod_version": "v3.1.10",
+  "mc_version": "1.12.2",
+  "mod_authors": ["MysteriousAges"],
+  "url_website": "http://bit.ly/XFDvLY",
+  "description": "Magic themed bee expansion for Forestry."
+}

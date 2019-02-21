@@ -1,0 +1,31 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "type=crust": [
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_crust_0"}, "weight": 8 },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_crust_1"} },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_crust_2"} }
+        ],
+        "type=soil": [
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_soil_0"}, "weight": 16 },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_soil_1"} },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_soil_2"} }
+        ],
+        "type=geyser": { 
+            "model": "cube_bottom_top", 
+            "textures": {
+                "particle": "thaumcraft:blocks/taint_geyser_side",
+                "bottom": "thaumcraft:blocks/log_taintwood_top",
+                "top": "thaumcraft:blocks/taint_geyser_top",
+                "side": "thaumcraft:blocks/taint_geyser_side"
+            } 
+         },
+        "type=rock": [            
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_rock"} },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_rock"}, "x": 90 },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_rock"}, "y": 90 },
+            { "model": "cube_all", "textures": {"all": "thaumcraft:blocks/taint_rock"}, "x": 90, "y": 90 }
+        ]
+    }    
+}
+

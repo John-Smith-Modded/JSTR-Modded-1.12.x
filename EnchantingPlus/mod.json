@@ -1,0 +1,10 @@
+{
+  "mod_id": "eplus",
+  "mod_name": "Enchanting Plus",
+  "mod_dir": "/EnchantingPlus/",
+  "mod_version": "5.0.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["xkyouchoux", "odininon", "GnR Slash", "Darkhax", "mssodin28", "IcIc98"],
+  "url_website": "https://minecraft.curseforge.com/projects/enchanting-plus",
+  "description": "Provides an alternative way to enchant your items!"
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "ForgeMultipart",
+  "mod_name": "Forge Multipart CBE",
+  "mod_dir": "/Forge_Multipart_CBE/",
+  "mod_version": "v2.6.1.8",
+  "mc_version": "1.12.2",
+  "mod_authors": ["ChickenBones", "MrTJP", "covers1624"],
+  "url_website": "https://github.com/TheCBProject/ForgeMultipart",
+  "description": "Open source library for facilitation of multiple functional parts in the one block space."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "extracells",
+  "mod_name": "Extra Cells",
+  "mod_dir": "/Extra_Cells_2/",
+  "mod_version": "v2.6.2",
+  "mc_version": "1.12.2",
+  "mod_authors": ["M3gaFr3ak", "DrummerMC", "Destroyer7128", "Nedelosk"],
+  "url_website": "https://minecraft.curseforge.com/projects/extracells2",
+  "description": "A Mod that adds 4 new ME Storage Cells and some other cool stuff to AE."
+}

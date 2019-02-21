@@ -1,0 +1,10 @@
+{
+  "mod_id": "Thaumcraft",
+  "mod_name": "Thaumcraft",
+  "mod_dir": "/Thaumcraft/",
+  "mod_version": "v6.1.BETA3",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Azanor"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130",
+  "description": "Adding a touch of magic to Minecraft."
+}
