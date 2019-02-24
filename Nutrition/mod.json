@@ -1,0 +1,10 @@
+{
+  "mod_id": "Nutrition",
+  "mod_name": "Nutrition",
+  "mod_dir": "/nutrition/",
+  "mod_version": "4.0",
+  "mc_version": "1.12",
+  "mod_authors": ["WesCook"],
+  "url_website": "https://github.com/WesCook/Nutrition",
+  "description": "A Minecraft mod that ensures you eat healthy."
+}
