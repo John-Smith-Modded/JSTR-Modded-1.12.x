@@ -1,0 +1,10 @@
+{
+  "mod_id": "backpack",
+  "mod_name": "Backpack",
+  "mod_dir": "/Backpack/",
+  "mod_version": "v3.0.2",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Eydamos"],
+  "url_website": "https://minecraft.curseforge.com/projects/forge-backpacks",
+  "description": "Provides the player with multiple, colored backpacks, which each has the space of a normal chest."
+}
