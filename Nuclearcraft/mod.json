@@ -1,0 +1,10 @@
+{
+  "mod_id": "Nuclearcraft",
+  "mod_name": "Nuclearcraft",
+  "mod_dir": "/Nuclearcraft/",
+  "mod_version": "v2.13e",
+  "mc_version": "1.12.2",
+  "mod_authors": ["tomdodd4598"],
+  "url_website": "https://minecraft.curseforge.com/projects/nuclearcraft-mod?gameCategorySlug=mc-mods&projectID=226254",
+  "description": "Modern and Nuclear Physics Mod for Minecraft!"
+}
