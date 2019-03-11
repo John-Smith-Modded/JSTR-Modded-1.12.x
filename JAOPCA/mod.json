@@ -1,0 +1,10 @@
+{
+  "mod_id": "JAOPCA",
+  "mod_name": "JAOPCA",
+  "mod_dir": "/jaopca/",
+  "mod_version": "v2.2.8.100",
+  "mc_version": "1.12.2",
+  "mod_authors": ["TheLMiffy1111"],
+  "url_website": "https://minecraft.curseforge.com/projects/jaopca?gameCategorySlug=mc-mods&projectID=266936",
+  "description": "Just A Ore Processing Compatibility Attempt."
+}
