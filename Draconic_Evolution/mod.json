@@ -1,10 +1,10 @@
 {
-  "mod_id": "DraconicEvolution",
+  "mod_id": "draconicevolution",
   "mod_name": "Draconic Evolution",
   "mod_dir": "/Draconic_Evolution/",
-  "mod_version": "v",
-  "mc_version": "1.10.2",
+  "mod_version": "2-2.3.20.333",
+  "mc_version": "1.12.2",
   "mod_authors": ["brandon3005", "GreatOrator"],
   "url_website": "http://minecraft.curseforge.com/projects/draconic-evolution",
-  "description": ""
+  "description": "Draconic Evolution is a mod that adds some extremely expensive high tier items to the game."
 }
