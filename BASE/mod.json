@@ -1,0 +1,10 @@
+{
+  "mod_id": "base",
+  "mod_name": "B.A.S.E.",
+  "mod_dir": "/BASE/",
+  "mod_version": "v3.12.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["jaredlll08", "Skysom", "FreneticScribbler"],
+  "url_website": "https://minecraft.curseforge.com/projects/base",
+  "description": "Main Library for The Acronym Coders Mod Projects."
+}
