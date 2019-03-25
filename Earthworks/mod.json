@@ -1,0 +1,10 @@
+{
+  "mod_id": "earthworks",
+  "mod_name": "Earthworks",
+  "mod_dir": "/Earthworks/",
+  "mod_version": "v1.3.6",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Alsnder"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/238891-dynamic-surroundings",
+  "description": "Adds a small variety of earthen based building blocks."
+}

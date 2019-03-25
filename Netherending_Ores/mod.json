@@ -1,0 +1,10 @@
+{
+  "mod_id": "netherendingores",
+  "mod_name": "Netherending Ores",
+  "mod_dir": "/Netherending_Ores/",
+  "mod_version": "1.3.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["ic_trab"],
+  "url_website": "https://minecraft.curseforge.com/projects/netherending-ores?gameCategorySlug=mc-mods&projectID=274807",
+  "description": "Vanilla and Modded Ores in the Nether/End."
+}

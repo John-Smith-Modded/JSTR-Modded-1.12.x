@@ -1,0 +1,10 @@
+{
+  "mod_id": "tcomplement",
+  "mod_name": "Tinkers' Compliment",
+  "mod_dir": "/Tinkers_Compliment/",
+  "mod_version": "v0.3.1",
+  "mc_version": "1.12.2.",
+  "mod_authors": ["KnightMiner"],
+  "url_website": "https://minecraft.curseforge.com/projects/tinkers-complement?gameCategorySlug=mc-mods&projectID=272671",
+  "description": "Addon for Tinkers Construct to bring compatibility and features that don't fit in the base mod."
+}

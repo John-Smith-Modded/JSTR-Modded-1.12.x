@@ -1,0 +1,10 @@
+{
+  "mod_id": "artisanworktables",
+  "mod_name": "Artisan Worktables",
+  "mod_dir": "/Artisan_Worktables/",
+  "mod_version": "1.20.1",
+  "mc_version": "1.12",
+  "mod_authors": ["codetaylor"],
+  "url_website": "https://minecraft.curseforge.com/projects/artisan-worktables?gameCategorySlug=mc-mods&projectID=284351",
+  "description": "Themed worktables with a tool slot. Optional tools provided. CraftTweaker, JEI, GameStages."
+}
