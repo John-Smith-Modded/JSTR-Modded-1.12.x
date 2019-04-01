@@ -1,0 +1,10 @@
+{
+  "mod_id": "growthcraft",
+  "mod_name": "Growthcraft",
+  "mod_dir": "/Growthcraft/",
+  "mod_version": "v4.0.4.400",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Gwafu, Alatyami, Ar97x_, IceDragon200, mDiyo, PitchBright"],
+  "url_website": "https://minecraft.curseforge.com/projects/growthcraft-community-edition",
+  "description": "A mod that aims to improve the agricultural and farming aspects of the game."
+}
