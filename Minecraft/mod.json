@@ -1,0 +1,10 @@
+{
+  "mod_id": "minecraft",
+  "mod_name": "minecraft",
+  "mod_dir": "/minecraft/",
+  "mod_version": "v1.12.2",
+  "mc_version": "1.12",
+  "mod_authors": ["mojang"],
+  "url_website": "https://www.minecraft.net/",
+  "description": "This has things other mods add to the minecraft folder."
+}
