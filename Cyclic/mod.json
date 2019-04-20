@@ -1,0 +1,10 @@
+{
+  "mod_id": "cyclicmagic",
+  "mod_name": "Cyclic",
+  "mod_dir": "/Cyclic/",
+  "mod_version": "1.19.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Lothrazar"],
+  "url_website": "https://minecraft.curseforge.com/projects/cyclic?gameCategorySlug=mc-mods&projectID=239286",
+  "description": "Tools, Machines, Gear, potions, villagers, fully configurable."
+}
