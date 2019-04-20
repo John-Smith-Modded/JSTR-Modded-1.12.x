@@ -1,0 +1,10 @@
+{
+  "mod_id": "metalchests",
+  "mod_name": "Metalchests",
+  "mod_dir": "/Metalchests/",
+  "mod_version": "4.0.1",
+  "mc_version": "1.12",
+  "mod_authors": ["T145"],
+  "url_website": "https://minecraft.curseforge.com/projects/metalchests?gameCategorySlug=mc-mods&projectID=290145",
+  "description": "Better alternative to IronChests."
+}
