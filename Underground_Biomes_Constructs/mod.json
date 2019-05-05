@@ -1,0 +1,10 @@
+{
+  "mod_id": "UndergroundBiomes",
+  "mod_name": "Underground Biomes Constructs",
+  "mod_dir": "/Underground_Biomes_Constructs/",
+  "mod_version": "1.3.3",
+  "mc_version": "1.12",
+  "mod_authors": ["Zeno410"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/72744-undergroundbiomesconstructs",
+  "description": "24 different kinds of stones with slabs, stairs, walls, and buttons."
+}
