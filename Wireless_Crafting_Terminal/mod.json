@@ -1,0 +1,10 @@
+{
+  "mod_id": "wct",
+  "mod_name": "Wireless Crafting Terminal",
+  "mod_dir": "/Wireless_Crafting_Terminal/",
+  "mod_version": "v3.11.88",
+  "mc_version": "1.12.2",
+  "mod_authors": ["TheRealp455w0rd"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal",
+  "description": "An addon for Applied Energistics 2 that adds a wireless version of the Crafting Terminal."
+}
