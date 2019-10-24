@@ -1,0 +1,10 @@
+{
+  "mod_id": "modularmachinery",
+  "mod_name": "Modular Machinery",
+  "mod_dir": "/Modular_Machinery/",
+  "mod_version": "v1.11.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["HellFirePVP"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/modular-machinery",
+  "description": "Configurable, dynamic, custom, complex machinery."
+}
