@@ -1,0 +1,10 @@
+{
+  "mod_id": "libvulpes",
+  "mod_name": "LibVulpes",
+  "mod_dir": "/libvulpes/",
+  "mod_version": "v0.4.0-56",
+  "mc_version": "1.12.2",
+  "mod_authors": ["zmaster587"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/search?search=libvulpes",
+  "description": "Common Library required for my mods."
+}
