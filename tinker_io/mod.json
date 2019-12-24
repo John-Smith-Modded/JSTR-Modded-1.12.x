@@ -1,0 +1,10 @@
+{
+  "mod_id": "tinkler_io",
+  "mod_name": "Tinker I/O",
+  "mod_dir": "/Tinker_IO/",
+  "mod_version": "rw2.7.1",
+  "mc_version": "1.12",
+  "mod_authors": ["GKB","tokomikea"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/tinker-i-o",
+  "description": "I/O for Smeltery! (Tinker I/O rewrite version)"
+}
