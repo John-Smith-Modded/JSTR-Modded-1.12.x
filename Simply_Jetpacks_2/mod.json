@@ -1,10 +1,13 @@
 {
-  "mod_id": "simplyjetpacks",
-  "mod_name": "Simply Jetpacks 2",
-  "mod_dir": "/Simply_Jetpacks_2/",
-  "mod_version": "v2.2.10",
-  "mc_version": "1.12.2",
-  "mod_authors": ["tonius11", "Tomson124"],
-  "url_website": "https://minecraft.curseforge.com/projects/simply-jetpacks-2",
-  "description": "Redstone Flux jetpacks and more."
+    "mod_id": "simplyjetpacks",
+    "mod_name": "Simply Jetpacks 2",
+    "mod_filename": "SimplyJetpacks2-1.12.2-2.2.3.33.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Tomson124"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/simply-jetpacks-2",
+    "description": "RF powered, tier based Jetpacks",
+    "mod_version": "2.2.3.33",
+    "mod_dir": "/Simply_Jetpacks_2/"
 }

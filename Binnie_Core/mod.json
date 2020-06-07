@@ -1,0 +1,9 @@
+{
+    "mod_name": "Binnie Core",
+    "mod_id": "binniecore",
+    "mod_version": "2.5.1.188",
+    "mc_version": "1.12.2",
+    "url_website": "https://minecraft.curseforge.com/projects/binnies-mods",
+    "description": "Base mod for Binnie's Mods, with lots of common code.",
+    "mod_dir": "/Binnie_Core/"
+}

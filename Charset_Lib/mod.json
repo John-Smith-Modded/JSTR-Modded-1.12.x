@@ -1,0 +1,13 @@
+{
+    "mod_id": "charset-lib",
+    "mod_name": "Charset Lib",
+    "mod_filename": "Charset-Lib-0.5.6.4.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "asiekierka"
+    ],
+    "url_website": "http://charset.asie.pl",
+    "description": "Library mod for Charset modules.",
+    "mod_version": "0.5.6.4",
+    "mod_dir": "/Charset_Lib/"
+}

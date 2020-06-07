@@ -1,10 +1,17 @@
 {
-  "mod_id": "TwilightForest",
-  "mod_name": "The Twilight Forest",
-  "mod_dir": "/Twilight_Forest/",
-  "mod_version": "v3.3.202",
-  "mc_version": "1.12.2",
-  "mod_authors": ["Benimatic"],
-  "url_website": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
-  "description": "An enchanted forest dimension."
+    "mod_id": "TwilightForest",
+    "mod_name": "The Twilight Forest",
+    "mod_filename": "twilightforest-1.7.10-2.3.7.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Benimatic",
+        "Tamaized",
+        "AtomicBlom",
+        "williewillus",
+        "Drullkus"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/the-twilight-forest",
+    "description": "A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure of a lifetime; in the Twilight Forest.",
+    "mod_version": "3.9.974",
+    "mod_dir": "/Twilight_Forest/"
 }

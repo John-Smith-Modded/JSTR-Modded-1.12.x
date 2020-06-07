@@ -1,0 +1,13 @@
+{
+    "mod_id": "GraviSuite",
+    "mod_name": "Graviation Suite",
+    "mod_filename": "Gravitation Suite-3.1.1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Chocohead"
+    ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=13598",
+    "description": "Boosting IC2 Jetpacks to the next level",
+    "mod_version": "3.1.1",
+    "mod_dir": "/Gravity_Suite/"
+}

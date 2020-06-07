@@ -1,0 +1,14 @@
+{
+    "mod_id": "Techreborn",
+    "mod_name": "Tech Reborn",
+    "mod_filename": "TechReborn-1.12.2-2.11.0.410-universal.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "modmuss50",
+        "drcrazy777"
+    ],
+    "url_website": "https://github.com/TechReborn/TechReborn",
+    "description": "Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod.",
+    "mod_version": "2.11.0.410",
+    "mod_dir": "/Tech_Reborn/"
+}

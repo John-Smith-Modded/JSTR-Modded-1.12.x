@@ -1,0 +1,13 @@
+{
+    "mod_id": "better-with-addons",
+    "mod_name": "Better With Addons",
+    "mod_filename": "Better With Addons-0.26.jar",
+    "mc_version": "1.12",
+    "mod_authors": [
+        "BordListian"
+    ],
+    "url_website": "",
+    "description": "Companion mod to Better With Mods. Ye olde addons extraordinaire.",
+    "mod_version": "0.26",
+    "mod_dir": "/Better_With_Addons/"
+}

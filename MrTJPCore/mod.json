@@ -1,0 +1,14 @@
+{
+    "mod_id": "mrtjpcore",
+    "mod_name": "MrTJPCore",
+    "mod_filename": "MrTJPCore-1.1.0.33-universal.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "MrTJP",
+        "covers1624"
+    ],
+    "url_website": "...",
+    "description": "Miscellaneous utilities for all my mods",
+    "mod_version": "2.1.4.43",
+    "mod_dir": "/MrTJPCore/"
+}

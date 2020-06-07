@@ -1,10 +1,13 @@
 {
-  "mod_id": "binniecore",
-  "mod_name": "Binnies Mods",
-  "mod_dir": "/Binnies_Mods/",
-  "mod_version": "v2.5.0.112",
-  "mc_version": "1.12.2",
-  "mod_authors": ["Binnie"],
-  "url_website": "https://www.curseforge.com/minecraft/mc-mods/binnies-mods",
-  "description": "A suite of mods designed to expand the Forestry mod."
+    "mod_name": "Binnies Mods",
+    "mod_id": "binniecore",
+    "mod_version": "2.5.1.188",
+    "mc_version": "1.12.2",
+    "url_website": "https://minecraft.curseforge.com/projects/binnies-mods",
+    "description": "Base mod for Binnie's Mods, with lots of common code.",
+    "mod_filename": "binnie-mods-1.7.5.jar",
+    "mod_dir": "/Binnies_Mods/",
+    "mod_authors": [
+        "Binnie"
+    ]
 }
