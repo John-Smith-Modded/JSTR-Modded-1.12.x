@@ -1,0 +1,11 @@
+{
+    "mod_id": "traverse",
+    "mod_name": "Traverse: Legacy Continued",
+    "mod_dir": "/Traverse/",
+    "mod_version": "v1.6.0",
+    "mc_version": "1.12.2",
+    "mod_authors": ["ProspectorDev","EpicSquid315", "Noobanidus"],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/traverse-legacy-continued",
+    "description": "A collection of vanilla style biomes to spruce up your world."
+  }
+  
