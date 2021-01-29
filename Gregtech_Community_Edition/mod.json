@@ -1,0 +1,10 @@
+{
+  "mod_id": "gregtech",
+  "mod_name": "Gregtech Community Edition",
+  "mod_dir": "/gtce/",
+  "mod_version": "v1.11.1",
+  "mc_version": "1.12.2",
+  "mod_authors": [ "Archengius", "Exidex" ],
+  "url_website": "https://minecraft.curseforge.com/projects/gregtechce",
+  "description": "Finally, the awesome technology of GregTech-Intergalactical can be used in 1.12!"
+}
